@@ -2,7 +2,7 @@
 
 Example implementation of DLL Injection.
 
-Related to blog post located at [https://posts.thinkbox.dev/posts/2023/01/09/malware-techniques-dll-injection](https://posts.thinkbox.dev/posts/2023/01/09/malware-techniques-dll-injection)
+Related to blog post located at [https://posts.thinkbox.dev/malware-techniques-dll-injection/](https://posts.thinkbox.dev/malware-techniques-dll-injection/)
 
 ## Execution Instructions
 
